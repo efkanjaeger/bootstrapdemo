@@ -1,0 +1,51 @@
+.resim {
+    height: 600px;
+}
+.body{
+    padding-top: 50px;
+}
+.aus{
+    background-color: rgba(82, 83, 141, 0.329);
+}
+.hr{
+    border: none;
+    border-top: 3px solid rgb(0, 0, 0);
+    color: black;
+    max-width: 250px;
+    margin:25px auto;
+}
+
+.anch{
+   color: rgb(20, 20, 20);
+   position: relative;
+   bottom: 70px;
+   font-size: 30px;
+}
+
+.col :hover{
+    opacity: 0.9;
+    transition: 0.3s;
+}
+
+.shipment{
+    background-color: rgba(82, 83, 141, 0.329);
+}
+
+.shp .fg{
+    text-decoration: solid;
+    font-size: 15pt;
+    color: black;
+}
+
+.shp .fig{
+    padding-top: 50px;
+}
+
+.shp .fig .gt{
+    text-decoration: none;
+}
+
+.fig .gt :hover{
+    opacity: 0.7;
+    transition: 0.3s;
+}
