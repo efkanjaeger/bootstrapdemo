@@ -1,2 +1,2 @@
 # bootstrapdemo
-<img src="bootstrapdemo1.gif>
+<img src="bootstrapdemo1.gif">
