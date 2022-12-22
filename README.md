@@ -1,2 +1,2 @@
 # bootstrapdemo
-Bootstrap site projesi
+<img src="bootstrapdemo1.gif>
