@@ -1,2 +1,3 @@
 # bootstrapdemo
-<img src="bootstrapdemo1.gif">
+<h2>Bootstrap Demo App</h2>
+ <p>Bootstrap kullanılarak yapılan HTML ve CSS uygulaması.</p>
